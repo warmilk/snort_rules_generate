@@ -147,3 +147,4 @@ notSSL/
 misc/
 .idea
 subSET/
+*.log
